@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="song_name1">Cola</string>
+    <string name="song_name2">Fuck Them</string>
+    <string name="song_name3">Haunted House</string>
+    <string name="song_name4">Timmy Turner</string>
+    <string name="song_name5">Its on me</string>
+    <string name="song_name6">Internal</string>
+    <string name="song_author1">CamelPhat, ElderBrook</string>
+    <string name="song_author2">Libercio - Loose Screw</string>
+    <string name="song_author3">Aarne, Big Baby Tape, Kizaru</string>
+    <string name="song_author4">McEn</string>
+    <string name="song_author5">Mr. Shamrock feat. Stevie Stone</string>
+    <string name="song_author6">Rogue Dave</string>
+    <string name="default_time">0 : 00</string>
+</resources>
